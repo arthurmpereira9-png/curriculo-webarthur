@@ -1,8 +1,8 @@
-# currículo-webarthur  
+# currículo-web-arthur  
 
 ## Arthur Miguel Lopes Xavier Pereira  
 
-**E-mail:** arthurmxtxalopesxavier@gmail.com  
+**E-mail:** art.cost40307@gmail.com  
 **Telefone:** (12) 99651-8879  
 **LinkedIn:** Arthur Miguel  
 **GitHub:** [arthurpemxira9-png](https://github.com/arthurpemxira9-png)  
